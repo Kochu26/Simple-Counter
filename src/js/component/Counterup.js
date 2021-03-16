@@ -139,5 +139,6 @@ const estiloBoton = {
 	margin: "10px",
 	fontSize: "2vh",
 	width: "12vh",
-	boxShadow: "0px 0px 2px white"
+	boxShadow: "0px 0px 2px white",
+	borderRadius: "15px"
 };
